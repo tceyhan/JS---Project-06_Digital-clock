@@ -24,7 +24,6 @@ Project aims to create a digital clock.
 
 ## Expected Outcome
 
-![Project 006 Snapshot](project_006.gif)
 
 ## Objective
 
